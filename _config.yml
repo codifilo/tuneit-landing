@@ -34,9 +34,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Multiple Instruments & Tunings
-    description                           : Guitar, base, ukelele, violing...
+  - title                                 : Multiple Instruments
+    description                           : Guitar, base, ukelele, violin, banjo, cello, mandolin...
     fontawesome_icon_name                 : guitar
+
+  - title                                 : Multiple Tunings
+    description                           : Standard, drop tunings, all fourths, open tunings...
+    fontawesome_icon_name                 : wrench
 
   - title                                 : Chromatic
     description                           : Tune to any note you want from any octave
